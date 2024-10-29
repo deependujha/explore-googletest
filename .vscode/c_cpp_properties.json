@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/build/_deps" // Add this line
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks"
+            ],
+            "cStandard": "c17",
+            "intelliSenseMode": "macos-clang-arm64",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

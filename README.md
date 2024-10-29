@@ -70,3 +70,5 @@ TEST_F(MyFixture, Test1)
 ---
 
 ## Mocking in GoogleTest
+
+https://google.github.io/googletest/gmock_for_dummies.html
